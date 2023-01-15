@@ -19,10 +19,19 @@
 下分6个事业群，分别是：CDG：企业发展事业群、CSIG：云与智慧产业事业群、IEG：互动娱乐事业群、PCG：平台与内容事业群、TEG：技术工程事业群和WXG：微信事业群。腾讯内部不同事业群之间存在不小的薪资、股票的差距。
 
 
+
+
 ![![腾讯分级](https://i9.taou.com/maimai/p/31010/2150_4_4LcIi0rphyEDBy)](https://user-images.githubusercontent.com/63451120/212570433-1b783a38-5525-4b53-a474-167bebcf205a.png)
 
+#### 其余
+![其余](https://user-images.githubusercontent.com/63451120/212570485-f46a8e90-db55-498a-b3c6-43645fedd490.png)
 
-![图片描述](图片地址)
+[阿里]
+
+[华为]
+
+[字节]
+
 
 
 但总的来说对于软件开发工程师而言一般可分为五个等级：
