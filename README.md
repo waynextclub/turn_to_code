@@ -4,7 +4,7 @@
 
 ## 码农/转码专版
 
-本块专门介绍普通码农（软件开发工程师SDE），算法岗、CV专版、海外码农/转码见链接。
+本块专门介绍普通码农（软件开发工程师SDE），[算法岗AI-Job-Notes](https://github.com/amusi/AI-Job-Notes)、[CV专版-CV-Jobs](https://github.com/amusi/CV-Company-List)、海外码农/转码见链接。
 
 ### 1.为什么选择*码农/转码*（WHY）
 
@@ -129,7 +129,27 @@
 [计算机系应届生求职指北](https://github.com/easychen/career-guide-for-cs-graduate)
 
 
-#### 
+
+
+
+#### 相关以及无关专业应届生
+
+[学校面试心得与自学CS经验及寻找工作分享](https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md#google)
+
+#### 社会招聘
+
+[硕士毕业半年的茫茫社招路](https://github.com/conanhujinming/tips_for_interview/blob/master/After_Half_A_Year.md)
+
+
+
+[面试技巧](https://github.com/conanhujinming/tips_for_interview)
+
+
+#### 学习资料
+
+[经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+
+
 
 1.考研
 
