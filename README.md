@@ -136,6 +136,8 @@
 
 [学校面试心得与自学CS经验及寻找工作分享](https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md#google)
 
+[零基础转码篇](https://github.com/lidangzzz/How-to-run)
+
 #### 社会招聘
 
 [硕士毕业半年的茫茫社招路](https://github.com/conanhujinming/tips_for_interview/blob/master/After_Half_A_Year.md)
